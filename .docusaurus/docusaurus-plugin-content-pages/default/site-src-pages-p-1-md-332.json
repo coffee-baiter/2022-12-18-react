@@ -4,5 +4,7 @@
   "source": "@site/src/pages/p1.md",
   "title": "P1",
   "description": "here we go",
-  "frontMatter": {}
+  "frontMatter": {
+    "title": "P1"
+  }
 }

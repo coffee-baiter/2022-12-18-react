@@ -11,8 +11,8 @@ export default {
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/logo.svg",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "A.A.",
+  "projectName": "Docs",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -63,7 +63,7 @@ export default {
         },
         {
           "label": "GitHub",
-          "href": "https://github.com/coffee-baiter/2022-12-18-react",
+          "href": "https://github.com/coffee-baiter",
           "position": "right"
         }
       ],
