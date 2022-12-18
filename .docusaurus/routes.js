@@ -98,6 +98,11 @@ export default [
     exact: true
   },
   {
+    path: '/p1',
+    component: ComponentCreator('/p1', '840'),
+    exact: true
+  },
+  {
     path: '/docs',
     component: ComponentCreator('/docs', '92d'),
     routes: [
