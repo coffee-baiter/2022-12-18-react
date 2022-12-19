@@ -3,180 +3,145 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '3e1'),
+    path: '/coffee-baiter/blog',
+    component: ComponentCreator('/coffee-baiter/blog', 'd23'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '032'),
+    path: '/coffee-baiter/blog/archive',
+    component: ComponentCreator('/coffee-baiter/blog/archive', '197'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '880'),
+    path: '/coffee-baiter/blog/first-blog-post',
+    component: ComponentCreator('/coffee-baiter/blog/first-blog-post', 'ab9'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '16c'),
+    path: '/coffee-baiter/blog/long-blog-post',
+    component: ComponentCreator('/coffee-baiter/blog/long-blog-post', '40d'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'e77'),
+    path: '/coffee-baiter/blog/mdx-blog-post',
+    component: ComponentCreator('/coffee-baiter/blog/mdx-blog-post', '0ca'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '295'),
+    path: '/coffee-baiter/blog/tags',
+    component: ComponentCreator('/coffee-baiter/blog/tags', 'd14'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '57f'),
+    path: '/coffee-baiter/blog/tags/docusaurus',
+    component: ComponentCreator('/coffee-baiter/blog/tags/docusaurus', 'f91'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '3a5'),
+    path: '/coffee-baiter/blog/tags/facebook',
+    component: ComponentCreator('/coffee-baiter/blog/tags/facebook', 'db7'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '32f'),
+    path: '/coffee-baiter/blog/tags/hello',
+    component: ComponentCreator('/coffee-baiter/blog/tags/hello', '817'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '6ca'),
+    path: '/coffee-baiter/blog/tags/hola',
+    component: ComponentCreator('/coffee-baiter/blog/tags/hola', '713'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '8c3'),
+    path: '/coffee-baiter/blog/welcome',
+    component: ComponentCreator('/coffee-baiter/blog/welcome', '419'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '3f8'),
+    path: '/coffee-baiter/markdown-page',
+    component: ComponentCreator('/coffee-baiter/markdown-page', '5c1'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '8db'),
+    path: '/coffee-baiter/p1',
+    component: ComponentCreator('/coffee-baiter/p1', '6d3'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '11f'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', 'cec'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '0eb'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', 'e3a'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '7c8'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'acc'),
-    exact: true
-  },
-  {
-    path: '/p1',
-    component: ComponentCreator('/p1', '840'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', '92d'),
+    path: '/coffee-baiter/docs',
+    component: ComponentCreator('/coffee-baiter/docs', '652'),
     routes: [
       {
-        path: '/docs/category/tutorial---basics',
-        component: ComponentCreator('/docs/category/tutorial---basics', 'd44'),
+        path: '/coffee-baiter/docs/category/tutorial---basics',
+        component: ComponentCreator('/coffee-baiter/docs/category/tutorial---basics', 'd41'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/tutorial---extras',
-        component: ComponentCreator('/docs/category/tutorial---extras', 'f09'),
+        path: '/coffee-baiter/docs/category/tutorial---extras',
+        component: ComponentCreator('/coffee-baiter/docs/category/tutorial---extras', '504'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
+        path: '/coffee-baiter/docs/intro',
+        component: ComponentCreator('/coffee-baiter/docs/intro', '01c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/docs/tutorial-basics/congratulations', '793'),
+        path: '/coffee-baiter/docs/tutorial-basics/congratulations',
+        component: ComponentCreator('/coffee-baiter/docs/tutorial-basics/congratulations', '4c1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '68e'),
+        path: '/coffee-baiter/docs/tutorial-basics/create-a-blog-post',
+        component: ComponentCreator('/coffee-baiter/docs/tutorial-basics/create-a-blog-post', 'e4a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-document', 'c2d'),
+        path: '/coffee-baiter/docs/tutorial-basics/create-a-document',
+        component: ComponentCreator('/coffee-baiter/docs/tutorial-basics/create-a-document', 'c6c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-page', 'f44'),
+        path: '/coffee-baiter/docs/tutorial-basics/create-a-page',
+        component: ComponentCreator('/coffee-baiter/docs/tutorial-basics/create-a-page', '55e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', 'e46'),
+        path: '/coffee-baiter/docs/tutorial-basics/deploy-your-site',
+        component: ComponentCreator('/coffee-baiter/docs/tutorial-basics/deploy-your-site', '3d1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/docs/tutorial-basics/markdown-features', '4b7'),
+        path: '/coffee-baiter/docs/tutorial-basics/markdown-features',
+        component: ComponentCreator('/coffee-baiter/docs/tutorial-basics/markdown-features', '06e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'fdd'),
+        path: '/coffee-baiter/docs/tutorial-extras/manage-docs-versions',
+        component: ComponentCreator('/coffee-baiter/docs/tutorial-extras/manage-docs-versions', '487'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
+        path: '/coffee-baiter/docs/tutorial-extras/translate-your-site',
+        component: ComponentCreator('/coffee-baiter/docs/tutorial-extras/translate-your-site', 'adc'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '681'),
+    path: '/coffee-baiter/',
+    component: ComponentCreator('/coffee-baiter/', '4bc'),
     exact: true
   },
   {

@@ -6,13 +6,14 @@
 export default {
   "title": "A.A. DOCS",
   "tagline": "Dinosaurs are cool",
-  "url": "https://aa-docs.github.io",
-  "baseUrl": "/",
+  "url": "https://github.com",
+  "baseUrl": "/coffee-baiter/",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/logo.svg",
-  "organizationName": "A.A.",
-  "projectName": "Docs",
+  "deploymentBranch": "gh-pages",
+  "organizationName": "coffee-baiter",
+  "projectName": "2022-12-18-react",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -26,13 +27,13 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\DATA\\PROJECTS\\REACT\\2022-12-18-react\\dev\\sidebars.js"
+          "sidebarPath": "C:\\DATA\\PROJECTS\\REACT\\2022-12-18-react\\deployment\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "C:\\DATA\\PROJECTS\\REACT\\2022-12-18-react\\dev\\src\\css\\custom.css"
+          "customCss": "C:\\DATA\\PROJECTS\\REACT\\2022-12-18-react\\deployment\\src\\css\\custom.css"
         }
       }
     ]

@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "A.A. DOCS",
   tagline: "Dinosaurs are cool",
-  url: "https://github.com",
-  baseUrl: "/coffee-baiter/",
+  url: "https://coffee-baiter.github.io",
+  baseUrl: "/2022-12-18-react/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/logo.svg",
