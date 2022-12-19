@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_2022_12_18_react=self.webpackChunk_2022_12_18_react||[]).push([[9125],{7938:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/coffee-baiter/blog/tags/docusaurus","allTagsPath":"/coffee-baiter/blog/tags","count":4}')}}]);

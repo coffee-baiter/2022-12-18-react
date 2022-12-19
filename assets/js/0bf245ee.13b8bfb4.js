@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_2022_12_18_react=self.webpackChunk_2022_12_18_react||[]).push([[7493],{2014:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/coffee-baiter/blog/tags/hello","allTagsPath":"/coffee-baiter/blog/tags","count":2}')}}]);

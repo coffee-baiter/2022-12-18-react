@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_2022_12_18_react=self.webpackChunk_2022_12_18_react||[]).push([[9797],{2660:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/2022-12-18-react/blog/tags/hola","allTagsPath":"/2022-12-18-react/blog/tags","count":1}')}}]);
