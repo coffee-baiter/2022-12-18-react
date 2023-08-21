@@ -22,7 +22,7 @@
   def f(x):
     y = x + 2
     return y
-  f(5) ### **7**
+  f(5) ### __7__
 </code>
 
 ## IF Statements
