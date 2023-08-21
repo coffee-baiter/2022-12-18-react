@@ -1,7 +1,6 @@
 # PYTHON
 
-## variables
-<code>\n
+## variables <code>
 x = 1
 x = x + 1
 print(x) # 3
