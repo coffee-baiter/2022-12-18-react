@@ -29,4 +29,12 @@
 <code>
   x = 2
   if x + 1 == 3:
+    print(x) ### 2
+</code>
+
+## Loops
+<code>
+  for i in range(1, 100):
+    if i % 2 == 0:
+      print(i) ### 2 4 6 8 10 12 14 ...... 94 96 98
 </code>
