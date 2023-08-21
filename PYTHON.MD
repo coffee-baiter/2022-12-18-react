@@ -1,16 +1,12 @@
 # PYTHON
 
-
 ## variables
-
+<code>
 x = 1
-
 x = x + 1
-
 print(x)
-
-##### >>> 3
-
+>>> 3
+</code>
 
 ## Strings
 
