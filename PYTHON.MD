@@ -1,10 +1,12 @@
 # PYTHON
 
+
 ## variables
 x = 1
 x = x + 1
 print(x)
 ##### >>> 3
+
 
 ## Strings
 x = 'abc'
@@ -14,6 +16,7 @@ z
 ##### >>> 'abcde'
 z = z[1:3]
 ##### >>> 'bc'
+
 
 ## Functions
 def f(x):
