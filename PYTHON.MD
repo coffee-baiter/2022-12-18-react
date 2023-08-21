@@ -15,6 +15,7 @@ z = x + y
 z
 ##### >>> 'abcde'
 z = z[1:3]
+z
 ##### >>> 'bc'
 
 
@@ -24,3 +25,8 @@ def f(x):
   return y
 f(5)
 ##### >>> 7
+
+## IF Statements
+x = 2
+if x + 1 == 3:
+  
